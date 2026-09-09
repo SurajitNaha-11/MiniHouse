@@ -124,7 +124,7 @@ The project demonstrates three important applications of sensors:
 
 * [x] Arduino Nano setup
 * [x] LDR automatic lighting
-* [x] IR security system
+* [x] USD security system
 * [x] NTC temperature monitoring
 * [x] Combine all systems
 * [ ] Build miniature house model
